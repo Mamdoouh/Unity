@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 681, y: 442}
-  m_MaxSize: {x: 12006, y: 8042}
+  m_MinSize: {x: 683, y: 442}
+  m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 14279
+  controlID: 4284
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,10 +120,10 @@ MonoBehaviour:
     y: 0
     width: 1229
     height: 731
-  m_MinSize: {x: 404, y: 442}
-  m_MaxSize: {x: 8004, y: 8042}
+  m_MinSize: {x: 406, y: 442}
+  m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 14255
+  controlID: 4285
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,10 +144,10 @@ MonoBehaviour:
     y: 0
     width: 1229
     height: 454
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 14256
+  controlID: 4286
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,8 +166,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 454
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -200,10 +200,10 @@ MonoBehaviour:
     width: 202
     height: 433
   m_TreeViewState:
-    scrollPos: {x: 0, y: 32}
-    m_SelectedIDs: f4c6feff
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 52fbffff54fbffff58fbffff5cfbffff64fbffff68fbffff6cfbffff72fbffffe6fbffffeafbfffff4fbfffff8fbfffffcfbffff12fcffff16fcffff18fcffff1afcffff00000000
+    m_ExpandedIDs: 2ed6faff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -285,9 +285,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 54.632538, y: 2.065965, z: 23.32212}
+    m_Target: {x: 51.885883, y: 2.325229, z: 21.0254}
     speed: 2
-    m_Value: {x: 54.632538, y: 2.065965, z: 23.32212}
+    m_Value: {x: 51.885883, y: 2.325229, z: 21.0254}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -310,13 +310,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.00037700287, y: 0.9967442, z: 0.00417257, w: -0.08061271}
+    m_Target: {x: 0.0019165005, y: -0.99622, z: -0.023610748, w: -0.08358668}
     speed: 2
-    m_Value: {x: 0.00037700005, y: 0.9967367, z: 0.004172539, w: -0.08061211}
+    m_Value: {x: 0.0019164984, y: -0.9962189, z: -0.023610722, w: -0.08358659}
   m_Size:
-    m_Target: 2.027395
+    m_Target: 5.526347
     speed: 2
-    m_Value: 2.027395
+    m_Value: 5.526347
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -428,7 +428,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 14}
   m_Selected: 1
-  m_LastSelected: 2
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -467,19 +467,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Animation/EnemyAttack
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animation/EnemyAttack
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\elmohandes tech\Documents\FinalProject\Unity
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 17}
-    m_SelectedIDs: 78320000
-    m_LastClickedID: 12920
-    m_ExpandedIDs: 000000000e2600003a26000064260000ca39000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 49}
+    m_SelectedIDs: 0e260000
+    m_LastClickedID: 9742
+    m_ExpandedIDs: 000000000e2600001426000046260000922600003827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,7 +507,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 36fffdff
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000e2600003a26000064260000ca39000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000000e26000046260000922600003827000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,8 +532,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ea330000
-    m_LastClickedInstanceID: 13290
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000000000002c4a0000
     m_RenameOverlay:
